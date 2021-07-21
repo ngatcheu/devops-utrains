@@ -1,1 +1,3 @@
-# devops-utrains
+# maven-project
+
+Simple Maven Project
